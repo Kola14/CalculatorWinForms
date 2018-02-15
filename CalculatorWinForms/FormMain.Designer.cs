@@ -184,7 +184,7 @@
             this.BtnLog.Name = "BtnLog";
             this.BtnLog.Size = new System.Drawing.Size(47, 29);
             this.BtnLog.TabIndex = 13;
-            this.BtnLog.Text = "Log";
+            this.BtnLog.Text = "log";
             this.BtnLog.UseVisualStyleBackColor = true;
             this.BtnLog.Click += new System.EventHandler(this.BtnLogClick);
             // 
